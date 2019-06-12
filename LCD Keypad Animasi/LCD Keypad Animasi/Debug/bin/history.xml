@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=LCD Keypad Animasi.map -O0 --gc-sections -LD:\CooCox\CoIDE\configuration\ProgramData\LCD Keypad Animasi -TD:\CooCox\CoIDE\configuration\ProgramData\LCD Keypad Animasi/arm-gcc-link.ld -g">
+      <target file="LCD Keypad Animasi.elf" lastModified="169b3b92bff">
+         <source file="..\obj\system_NUC1xx.o" lastModified="169b3b3be4d"/>
+         <source file="..\obj\startup_NUC1xx.o" lastModified="169b3b3be89"/>
+         <source file="..\obj\Init.o" lastModified="169b3b3beed"/>
+         <source file="..\obj\DrvSPI.o" lastModified="169b3b3bf83"/>
+         <source file="..\obj\main.o" lastModified="169b3b92a17"/>
+         <source file="..\obj\DrvGPIO.o" lastModified="169b3b3c09c"/>
+         <source file="..\obj\ScanKey.o" lastModified="169b3b3c109"/>
+         <source file="..\obj\DrvSYS.o" lastModified="169b3b3c19f"/>
+         <source file="..\obj\Ascii_Table.o" lastModified="169b3b3c8d1"/>
+         <source file="..\obj\LCD_Driver.o" lastModified="169b3b3c954"/>
+         <source file="..\obj\core_cm0.o" lastModified="169b3b3c9b3"/>
+      </target>
+   </processor>
+</history>

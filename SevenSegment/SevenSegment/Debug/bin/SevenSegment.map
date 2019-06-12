@@ -1,0 +1,556 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                              ..\obj\system_NUC1xx.o (__aeabi_uidiv)
+d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                              d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\system_NUC1xx.o
+ .data          0x00000000       0x1c ..\obj\system_NUC1xx.o
+ .bss           0x00000000        0x0 ..\obj\system_NUC1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xe8 ..\obj\system_NUC1xx.o
+ .text          0x00000000        0x0 ..\obj\startup_NUC1xx.o
+ .data          0x00000000        0x0 ..\obj\startup_NUC1xx.o
+ .bss           0x00000000        0x0 ..\obj\startup_NUC1xx.o
+ .text          0x00000000        0x0 ..\obj\Init.o
+ .data          0x00000000        0x0 ..\obj\Init.o
+ .bss           0x00000000        0x0 ..\obj\Init.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .bss           0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\Seven_Segment.o
+ .bss           0x00000000        0x0 ..\obj\Seven_Segment.o
+ .text          0x00000000        0x0 ..\obj\DrvGPIO.o
+ .data          0x00000000        0x0 ..\obj\DrvGPIO.o
+ .text.NVIC_EnableIRQ
+                0x00000000       0x2c ..\obj\DrvGPIO.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x30 ..\obj\DrvGPIO.o
+ .text.NVIC_SetPriority
+                0x00000000       0xdc ..\obj\DrvGPIO.o
+ .text.DrvGPIO_Close
+                0x00000000       0x60 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetBit
+                0x00000000       0x4c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_SetPortBits
+                0x00000000       0x30 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetPortBits
+                0x00000000       0x2c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetDoutBit
+                0x00000000       0x48 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetPortDoutBits
+                0x00000000       0x38 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_SetBitMask
+                0x00000000       0x3c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetBitMask
+                0x00000000       0x38 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_ClrBitMask
+                0x00000000       0x40 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_SetPortMask
+                0x00000000       0x3c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetPortMask
+                0x00000000       0x28 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_ClrPortMask
+                0x00000000       0x40 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_EnableDigitalInputBit
+                0x00000000       0x40 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_DisableDigitalInputBit
+                0x00000000       0x40 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_EnableDebounce
+                0x00000000       0x4c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_DisableDebounce
+                0x00000000       0x4c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_SetDebounceTime
+                0x00000000       0x64 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetDebounceSampleCycle
+                0x00000000       0x18 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_EnableInt
+                0x00000000      0x168 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_DisableInt
+                0x00000000       0x7c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_SetIntCallback
+                0x00000000       0x28 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_EnableEINT0
+                0x00000000       0xd0 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_DisableEINT0
+                0x00000000       0x2c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_EnableEINT1
+                0x00000000       0xd0 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_DisableEINT1
+                0x00000000       0x2c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetIntStatus
+                0x00000000       0x2c ..\obj\DrvGPIO.o
+ .text.DrvGPIO_InitFunction
+                0x00000000      0x6ac ..\obj\DrvGPIO.o
+ .rodata        0x00000000       0xf8 ..\obj\DrvGPIO.o
+ .text.DrvGPIO_GetVersion
+                0x00000000       0x10 ..\obj\DrvGPIO.o
+ .text          0x00000000        0x0 ..\obj\DrvSYS.o
+ .data          0x00000000        0x0 ..\obj\DrvSYS.o
+ .text.NVIC_EnableIRQ
+                0x00000000       0x2c ..\obj\DrvSYS.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x30 ..\obj\DrvSYS.o
+ .text.NVIC_SetPriority
+                0x00000000       0xdc ..\obj\DrvSYS.o
+ .text.DrvSYS_GetVersion
+                0x00000000       0x10 ..\obj\DrvSYS.o
+ .text.DrvSYS_ReadProductID
+                0x00000000       0x10 ..\obj\DrvSYS.o
+ .text.DrvSYS_UnlockProtectedReg
+                0x00000000       0x54 ..\obj\DrvSYS.o
+ .text.DrvSYS_LockProtectedReg
+                0x00000000       0x3c ..\obj\DrvSYS.o
+ .text.DrvSYS_IsProtectedRegLocked
+                0x00000000       0x1c ..\obj\DrvSYS.o
+ .text.DrvSYS_GetResetSource
+                0x00000000       0x14 ..\obj\DrvSYS.o
+ .text.DrvSYS_ClearResetSource
+                0x00000000       0x1c ..\obj\DrvSYS.o
+ .text.DrvSYS_ResetIP
+                0x00000000       0x8c ..\obj\DrvSYS.o
+ .text.DrvSYS_ResetCPU
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_ResetChip
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_SelectBODVolt
+                0x00000000       0x34 ..\obj\DrvSYS.o
+ .text.DrvSYS_SetBODFunction
+                0x00000000       0x80 ..\obj\DrvSYS.o
+ .text.DrvSYS_EnableBODLowPowerMode
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_DisableBODLowPowerMode
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetBODState
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_EnableLowVoltReset
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_DisableLowVoltReset
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_EnableTemperatureSensor
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_DisableTemperatureSensor
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_EnablePOR
+                0x00000000       0x14 ..\obj\DrvSYS.o
+ .text.DrvSYS_DisablePOR
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_SetIPClock
+                0x00000000       0xd0 ..\obj\DrvSYS.o
+ .text.DrvSYS_SelectHCLKSource
+                0x00000000       0x58 ..\obj\DrvSYS.o
+ .text.DrvSYS_SelectSysTickSource
+                0x00000000       0x58 ..\obj\DrvSYS.o
+ .text.DrvSYS_SelectIPClockSource
+                0x00000000      0x1d8 ..\obj\DrvSYS.o
+ .rodata        0x00000000       0x58 ..\obj\DrvSYS.o
+ .text.DrvSYS_SetClockDivider
+                0x00000000       0xc8 ..\obj\DrvSYS.o
+ .text.DrvSYS_SetOscCtrl
+                0x00000000       0xbc ..\obj\DrvSYS.o
+ .text.DrvSYS_SetPowerDownWakeUpInt
+                0x00000000       0x8c ..\obj\DrvSYS.o
+ .text.DrvSYS_EnterPowerDown
+                0x00000000       0x4c ..\obj\DrvSYS.o
+ .text.DrvSYS_SelectPLLSource
+                0x00000000       0x38 ..\obj\DrvSYS.o
+ .text.DrvSYS_SetPLLMode
+                0x00000000       0x58 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetExtClockFreq
+                0x00000000       0x10 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetPLLContent
+                0x00000000      0x108 ..\obj\DrvSYS.o
+ .text.DrvSYS_SetPLLContent
+                0x00000000       0x78 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetPLLClockFreq
+                0x00000000       0xa4 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetHCLKFreq
+                0x00000000       0x94 ..\obj\DrvSYS.o
+ .text.DrvSYS_Open
+                0x00000000       0xec ..\obj\DrvSYS.o
+ .text.DrvSYS_SetFreqDividerOutput
+                0x00000000       0x74 ..\obj\DrvSYS.o
+ .text.DrvSYS_EnableHighPerformanceMode
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_DisableHighPerformanceMode
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_Delay
+                0x00000000       0x40 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetChipClockSourceStatus
+                0x00000000       0x80 ..\obj\DrvSYS.o
+ .text.DrvSYS_GetClockSwitchStatus
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text.DrvSYS_ClearClockSwitchStatus
+                0x00000000       0x18 ..\obj\DrvSYS.o
+ .text          0x00000000        0x0 ..\obj\core_cm0.o
+ .data          0x00000000        0x0 ..\obj\core_cm0.o
+ .bss           0x00000000        0x0 ..\obj\core_cm0.o
+ .text.__get_PSP
+                0x00000000       0x10 ..\obj\core_cm0.o
+ .text.__set_PSP
+                0x00000000        0xc ..\obj\core_cm0.o
+ .text.__get_MSP
+                0x00000000       0x10 ..\obj\core_cm0.o
+ .text.__set_MSP
+                0x00000000        0xc ..\obj\core_cm0.o
+ .text.__get_PRIMASK
+                0x00000000       0x1c ..\obj\core_cm0.o
+ .text.__set_PRIMASK
+                0x00000000       0x18 ..\obj\core_cm0.o
+ .text.__get_CONTROL
+                0x00000000       0x1c ..\obj\core_cm0.o
+ .text.__set_CONTROL
+                0x00000000       0x18 ..\obj\core_cm0.o
+ .text.__REV    0x00000000       0x1c ..\obj\core_cm0.o
+ .text.__REV16  0x00000000       0x24 ..\obj\core_cm0.o
+ .text.__REVSH  0x00000000       0x24 ..\obj\core_cm0.o
+ .debug_info    0x00000000      0x2a3 ..\obj\core_cm0.o
+ .debug_abbrev  0x00000000       0xa3 ..\obj\core_cm0.o
+ .debug_aranges
+                0x00000000       0x70 ..\obj\core_cm0.o
+ .debug_ranges  0x00000000       0x60 ..\obj\core_cm0.o
+ .debug_line    0x00000000      0x1e4 ..\obj\core_cm0.o
+ .debug_str     0x00000000      0x23c ..\obj\core_cm0.o
+ .comment       0x00000000       0x6f ..\obj\core_cm0.o
+ .debug_frame   0x00000000      0x130 ..\obj\core_cm0.o
+ .ARM.attributes
+                0x00000000       0x31 ..\obj\core_cm0.o
+ .text          0x00000000      0x114 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000000       0x20 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .text          0x00000000        0x4 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1e d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00020000         xr
+ram              0x20000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20004000                _eram = 0x20004000
+
+.text           0x00000000      0x5ec
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ..\obj\startup_NUC1xx.o
+                0x00000000                g_pfnVectors
+ *(.text*)
+ .text.SystemInit
+                0x000000c0        0xc ..\obj\system_NUC1xx.o
+                0x000000c0                SystemInit
+ .text.Default_Reset_Handler
+                0x000000cc       0x64 ..\obj\startup_NUC1xx.o
+                0x000000cc                Default_Reset_Handler
+                0x000000cc                Reset_Handler
+ .text.Default_Handler
+                0x00000130        0x8 ..\obj\startup_NUC1xx.o
+                0x00000130                DebugMon_Handler
+                0x00000130                I2C0_IRQHandler
+                0x00000130                HardFault_Handler
+                0x00000130                SysTick_Handler
+                0x00000130                PendSV_Handler
+                0x00000130                NMI_Handler
+                0x00000130                I2C1_IRQHandler
+                0x00000130                UART1_IRQHandler
+                0x00000130                PS2_IRQHandler
+                0x00000130                USBD_IRQHandler
+                0x00000130                UsageFault_Handler
+                0x00000130                SPI1_IRQHandler
+                0x00000130                TMR0_IRQHandler
+                0x00000130                ACMP_IRQHandler
+                0x00000130                I2S_IRQHandler
+                0x00000130                RTC_IRQHandler
+                0x00000130                PWMA_IRQHandler
+                0x00000130                ADC_IRQHandler
+                0x00000130                TMR2_IRQHandler
+                0x00000130                SPI2_IRQHandler
+                0x00000130                UART02_IRQHandler
+                0x00000130                MemManage_Handler
+                0x00000130                WDT_IRQHandler
+                0x00000130                SVC_Handler
+                0x00000130                PDMA_IRQHandler
+                0x00000130                CAN0_IRQHandler
+                0x00000130                TMR3_IRQHandler
+                0x00000130                SPI0_IRQHandler
+                0x00000130                BusFault_Handler
+                0x00000130                SPI3_IRQHandler
+                0x00000130                PWMB_IRQHandler
+                0x00000130                TMR1_IRQHandler
+ .text.GPIOE_Init
+                0x00000138       0x5c ..\obj\Init.o
+                0x00000138                GPIOE_Init
+ .text.GPIOC_Init
+                0x00000194       0x34 ..\obj\Init.o
+                0x00000194                GPIOC_Init
+ .text.Init     0x000001c8       0x14 ..\obj\Init.o
+                0x000001c8                Init
+ .text.delay    0x000001dc       0x20 ..\obj\main.o
+                0x000001dc                delay
+ .text.Test     0x000001fc       0x58 ..\obj\main.o
+                0x000001fc                Test
+ .text.main     0x00000254       0x10 ..\obj\main.o
+                0x00000254                main
+ .text.show_seven_segment
+                0x00000264       0x94 ..\obj\Seven_Segment.o
+                0x00000264                show_seven_segment
+ .text.close_seven_segment
+                0x000002f8       0x2c ..\obj\Seven_Segment.o
+                0x000002f8                close_seven_segment
+ .text.GPAB_IRQHandler
+                0x00000324       0x54 ..\obj\DrvGPIO.o
+                0x00000324                GPAB_IRQHandler
+ .text.GPCDE_IRQHandler
+                0x00000378       0x58 ..\obj\DrvGPIO.o
+                0x00000378                GPCDE_IRQHandler
+ .text.EINT0_IRQHandler
+                0x000003d0       0x28 ..\obj\DrvGPIO.o
+                0x000003d0                EINT0_IRQHandler
+ .text.EINT1_IRQHandler
+                0x000003f8       0x28 ..\obj\DrvGPIO.o
+                0x000003f8                EINT1_IRQHandler
+ .text.DrvGPIO_Open
+                0x00000420       0xd4 ..\obj\DrvGPIO.o
+                0x00000420                DrvGPIO_Open
+ .text.DrvGPIO_SetBit
+                0x000004f4       0x50 ..\obj\DrvGPIO.o
+                0x000004f4                DrvGPIO_SetBit
+ .text.DrvGPIO_ClrBit
+                0x00000544       0x54 ..\obj\DrvGPIO.o
+                0x00000544                DrvGPIO_ClrBit
+ .text.BOD_IRQHandler
+                0x00000598       0x28 ..\obj\DrvSYS.o
+                0x00000598                BOD_IRQHandler
+ .text.PWRWU_IRQHandler
+                0x000005c0       0x2c ..\obj\DrvSYS.o
+                0x000005c0                PWRWU_IRQHandler
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ *(.eh_fram e*)
+
+.glue_7         0x000005ec        0x0
+ .glue_7        0x000005ec        0x0 linker stubs
+
+.glue_7t        0x000005ec        0x0
+ .glue_7t       0x000005ec        0x0 linker stubs
+
+.vfp11_veneer   0x000005ec        0x0
+ .vfp11_veneer  0x000005ec        0x0 linker stubs
+
+.v4_bx          0x000005ec        0x0
+ .v4_bx         0x000005ec        0x0 linker stubs
+
+.iplt           0x000005ec        0x0
+ .iplt          0x000005ec        0x0 ..\obj\system_NUC1xx.o
+
+.rel.dyn        0x000005ec        0x0
+ .rel.iplt      0x000005ec        0x0 ..\obj\system_NUC1xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000005ec                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000005ec                __exidx_end = .
+                0x000005ec                __etext = .
+                0x000005ec                _sidata = __etext
+
+.data           0x20000000        0xc load address 0x000005ec
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000        0xa ..\obj\Seven_Segment.o
+                0x20000000                SEG_BUF
+                0x2000000c                . = ALIGN (0x4)
+ *fill*         0x2000000a        0x2 
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+                0x2000000c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+                0x2000000c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                __data_end__ = .
+                0x2000000c                _edata = __data_end__
+
+.igot.plt       0x2000000c        0x0 load address 0x000005f8
+ .igot.plt      0x2000000c        0x0 ..\obj\system_NUC1xx.o
+
+.bss            0x2000000c       0x18 load address 0x000005f8
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                __bss_start__ = .
+                0x2000000c                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x2000000c       0x10 ..\obj\DrvGPIO.o
+ .bss           0x2000001c        0x8 ..\obj\DrvSYS.o
+ *(COMMON)
+                0x20000024                . = ALIGN (0x4)
+                0x20000024                __bss_end__ = .
+                0x20000024                _ebss = __bss_end__
+
+.heap           0x20000024        0x0
+                0x20000024                __end__ = .
+                0x20000024                _end = __end__
+                0x20000024                end = __end__
+ *(.heap*)
+                0x20000024                __HeapLimit = .
+
+.co_stack       0x20000024      0x404 load address 0x00000610
+                0x20000028                . = ALIGN (0x8)
+ *fill*         0x20000024        0x4 
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20000028      0x400 ..\obj\startup_NUC1xx.o
+                0x20000028                pulStack
+                0x20004000                __StackTop = (ORIGIN (ram) + LENGTH (ram))
+                0x20003bfc                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                [!provide]                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\system_NUC1xx.o
+LOAD ..\obj\startup_NUC1xx.o
+LOAD ..\obj\Init.o
+LOAD ..\obj\main.o
+LOAD ..\obj\Seven_Segment.o
+LOAD ..\obj\DrvGPIO.o
+LOAD ..\obj\DrvSYS.o
+LOAD ..\obj\core_cm0.o
+START GROUP
+LOAD d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg.a
+LOAD d:/coocox/cgnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a
+END GROUP
+OUTPUT(SevenSegment.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x53e6
+ .debug_info    0x00000000      0x8fa ..\obj\system_NUC1xx.o
+ .debug_info    0x000008fa      0x103 ..\obj\startup_NUC1xx.o
+ .debug_info    0x000009fd       0xf2 ..\obj\Init.o
+ .debug_info    0x00000aef       0xea ..\obj\main.o
+ .debug_info    0x00000bd9      0x129 ..\obj\Seven_Segment.o
+ .debug_info    0x00000d02     0x2198 ..\obj\DrvGPIO.o
+ .debug_info    0x00002e9a     0x254c ..\obj\DrvSYS.o
+
+.debug_abbrev   0x00000000      0x986
+ .debug_abbrev  0x00000000      0x10e ..\obj\system_NUC1xx.o
+ .debug_abbrev  0x0000010e       0xa7 ..\obj\startup_NUC1xx.o
+ .debug_abbrev  0x000001b5       0x56 ..\obj\Init.o
+ .debug_abbrev  0x0000020b       0x92 ..\obj\main.o
+ .debug_abbrev  0x0000029d       0xd3 ..\obj\Seven_Segment.o
+ .debug_abbrev  0x00000370      0x2fc ..\obj\DrvGPIO.o
+ .debug_abbrev  0x0000066c      0x31a ..\obj\DrvSYS.o
+
+.debug_aranges  0x00000000      0x3c0
+ .debug_aranges
+                0x00000000       0x28 ..\obj\system_NUC1xx.o
+ .debug_aranges
+                0x00000028       0x28 ..\obj\startup_NUC1xx.o
+ .debug_aranges
+                0x00000050       0x30 ..\obj\Init.o
+ .debug_aranges
+                0x00000080       0x30 ..\obj\main.o
+ .debug_aranges
+                0x000000b0       0x28 ..\obj\Seven_Segment.o
+ .debug_aranges
+                0x000000d8      0x148 ..\obj\DrvGPIO.o
+ .debug_aranges
+                0x00000220      0x1a0 ..\obj\DrvSYS.o
+
+.debug_ranges   0x00000000      0x350
+ .debug_ranges  0x00000000       0x18 ..\obj\system_NUC1xx.o
+ .debug_ranges  0x00000018       0x18 ..\obj\startup_NUC1xx.o
+ .debug_ranges  0x00000030       0x20 ..\obj\Init.o
+ .debug_ranges  0x00000050       0x20 ..\obj\main.o
+ .debug_ranges  0x00000070       0x18 ..\obj\Seven_Segment.o
+ .debug_ranges  0x00000088      0x138 ..\obj\DrvGPIO.o
+ .debug_ranges  0x000001c0      0x190 ..\obj\DrvSYS.o
+
+.debug_line     0x00000000     0x142a
+ .debug_line    0x00000000      0x166 ..\obj\system_NUC1xx.o
+ .debug_line    0x00000166       0xa4 ..\obj\startup_NUC1xx.o
+ .debug_line    0x0000020a       0xde ..\obj\Init.o
+ .debug_line    0x000002e8      0x184 ..\obj\main.o
+ .debug_line    0x0000046c      0x11b ..\obj\Seven_Segment.o
+ .debug_line    0x00000587      0x72c ..\obj\DrvGPIO.o
+ .debug_line    0x00000cb3      0x777 ..\obj\DrvSYS.o
+
+.debug_str      0x00000000     0x2b13
+ .debug_str     0x00000000      0x479 ..\obj\system_NUC1xx.o
+                                0x502 (size before relaxing)
+ .debug_str     0x00000479       0xba ..\obj\startup_NUC1xx.o
+                                0x151 (size before relaxing)
+ .debug_str     0x00000533       0x95 ..\obj\Init.o
+                                0x1a3 (size before relaxing)
+ .debug_str     0x000005c8       0x40 ..\obj\main.o
+                                0x15d (size before relaxing)
+ .debug_str     0x00000608       0xf6 ..\obj\Seven_Segment.o
+                                0x222 (size before relaxing)
+ .debug_str     0x000006fe     0x18dc ..\obj\DrvGPIO.o
+                               0x1cec (size before relaxing)
+ .debug_str     0x00001fda      0xb39 ..\obj\DrvSYS.o
+                               0x2116 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ..\obj\system_NUC1xx.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ..\obj\startup_NUC1xx.o
+ .comment       0x0000006e       0x6f ..\obj\Init.o
+ .comment       0x0000006e       0x6f ..\obj\main.o
+ .comment       0x0000006e       0x6f ..\obj\Seven_Segment.o
+ .comment       0x0000006e       0x6f ..\obj\DrvGPIO.o
+ .comment       0x0000006e       0x6f ..\obj\DrvSYS.o
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 ..\obj\system_NUC1xx.o
+ .ARM.attributes
+                0x00000031       0x31 ..\obj\startup_NUC1xx.o
+ .ARM.attributes
+                0x00000062       0x31 ..\obj\Init.o
+ .ARM.attributes
+                0x00000093       0x31 ..\obj\main.o
+ .ARM.attributes
+                0x000000c4       0x31 ..\obj\Seven_Segment.o
+ .ARM.attributes
+                0x000000f5       0x31 ..\obj\DrvGPIO.o
+ .ARM.attributes
+                0x00000126       0x31 ..\obj\DrvSYS.o
+
+.debug_frame    0x00000000      0xc54
+ .debug_frame   0x00000000       0x4c ..\obj\system_NUC1xx.o
+ .debug_frame   0x0000004c       0x4c ..\obj\startup_NUC1xx.o
+ .debug_frame   0x00000098       0x64 ..\obj\Init.o
+ .debug_frame   0x000000fc       0x6c ..\obj\main.o
+ .debug_frame   0x00000168       0x4c ..\obj\Seven_Segment.o
+ .debug_frame   0x000001b4      0x4c4 ..\obj\DrvGPIO.o
+ .debug_frame   0x00000678      0x5dc ..\obj\DrvSYS.o

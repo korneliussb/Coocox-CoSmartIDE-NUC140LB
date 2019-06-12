@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\CoSmart\workspace\SevenSegment\cmsis_core /I..\..\..\..\CoSmart\workspace /I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002 /I..\..\..\..\CoSmart\workspace\SevenSegment\cmsis_lib\Include /I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include /I..\..\..\..\CoSmart\workspace\SevenSegment\cmsis_lib /I..\..\..\..\CoSmart\workspace\SevenSegment /I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton /I..\..\..\..\CoSmart\workspace\SevenSegment\cmsis_lib\Include\Driver /I..\..\..\..\CoSmart\workspace\SevenSegment\cmsis_lib\Include\System /I..\..\..\..\CoSmart\workspace\SevenSegment\cmsis_boot">
+      <source file="..\..\..\cmsis_lib\Include\System\ModuleID.h" lastModified="169a490675b">
+      </source>
+      <source file="..\..\..\cmsis_core\core_cm0.h" lastModified="169a4906f3b">
+      </source>
+      <source file="..\..\..\cmsis_lib\Src\Driver\DrvSYS.c" lastModified="169a4906b5f">
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h"/>
+      </source>
+      <source file="..\..\..\cmsis_core\core_cm0.c" lastModified="169a4906b4b">
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_NUC1xx.c" lastModified="169a4906787">
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\Seven_Segment.c" lastModified="136156c64d8">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h"/>
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\Seven_Segment.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\NUC1xx.h" lastModified="169a490677f">
+         <include file="..\..\..\cmsis_core\core_cm0.h"/>
+         <include file="..\..\..\cmsis_boot\system_NUC1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\System\SysInfra.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\System\SysInfra.h" lastModified="169a4906b43">
+         <include file="..\..\..\cmsis_lib\Include\System\ModuleID.h"/>
+         <include file="..\..\..\cmsis_core\core_cm0.h"/>
+      </source>
+      <source file="..\..\..\main.c" lastModified="169a4a7f941">
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h"/>
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\Seven_Segment.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h" lastModified="169a490674f">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_NUC1xx.h" lastModified="169a490678b">
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h" lastModified="169a490676f">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\Seven_Segment.h" lastModified="136156bf390">
+      </source>
+      <source file="..\..\..\cmsis_lib\Src\Driver\DrvGPIO.c" lastModified="169a4906b3f">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_NUC1xx.c" lastModified="169a4906b73">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\Init.c" lastModified="169a4907e85">
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+      </source>
+   </includePath>
+</dependencies>

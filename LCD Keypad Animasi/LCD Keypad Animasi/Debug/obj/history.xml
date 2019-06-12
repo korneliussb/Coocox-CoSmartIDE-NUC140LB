@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m0 -mthumb -Wall -ffunction-sections -g -O0 -c -DNUC140VE3CN -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_boot -I..\..\..\..\CoSmart\workspace -I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002 -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib\Include\System -I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_core -I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib\Include\Driver -I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib\Include">
+      <target file="LCD_Driver.o" lastModified="169b3b3c954">
+         <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\LCD_Driver.c" lastModified="160c54dfd5e"/>
+      </target>
+      <target file="startup_NUC1xx.o" lastModified="169b3b3be89">
+         <source file="..\..\..\cmsis_boot\startup\startup_NUC1xx.c" lastModified="169b3af3790"/>
+      </target>
+      <target file="DrvGPIO.o" lastModified="169b3b3c09c">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvGPIO.c" lastModified="169b3af37a4"/>
+      </target>
+      <target file="ScanKey.o" lastModified="169b3b3c109">
+         <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\ScanKey.c" lastModified="136156c60f0"/>
+      </target>
+      <target file="DrvSYS.o" lastModified="169b3b3c19f">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvSYS.c" lastModified="169b3af3786"/>
+      </target>
+      <target file="main.o" lastModified="169b3b92a17">
+         <source file="..\..\..\main.c" lastModified="169b3b92136"/>
+      </target>
+      <target file="system_NUC1xx.o" lastModified="169b3b3be4d">
+         <source file="..\..\..\cmsis_boot\system_NUC1xx.c" lastModified="169b3af3790"/>
+      </target>
+      <target file="DrvSPI.o" lastModified="169b3b3bf83">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvSPI.c" lastModified="169b3af3772"/>
+      </target>
+      <target file="core_cm0.o" lastModified="169b3b3c9b3">
+         <source file="..\..\..\cmsis_core\core_cm0.c" lastModified="169b3af377c"/>
+      </target>
+      <target file="Init.o" lastModified="169b3b3beed">
+         <source file="..\..\..\Init.c" lastModified="169b3af3df0"/>
+      </target>
+      <target file="Ascii_Table.o" lastModified="169b3b3c8d1">
+         <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\Ascii_Table.C" lastModified="136156c5920"/>
+      </target>
+   </processor>
+</history>

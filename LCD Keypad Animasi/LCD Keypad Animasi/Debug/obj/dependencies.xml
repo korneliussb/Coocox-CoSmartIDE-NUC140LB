@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi /I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_boot /I..\..\..\..\CoSmart\workspace /I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002 /I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib\Include\System /I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include /I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_core /I..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton /I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib /I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib\Include\Driver /I..\..\..\..\CoSmart\workspace\LCD Keypad Animasi\cmsis_lib\Include">
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\ScanKey.h" lastModified="136156bf390">
+      </source>
+      <source file="..\..\..\cmsis_lib\Src\Driver\DrvSPI.c" lastModified="169b3af3772">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+         <include file="..\..\..\cmsis_core\core_cm0.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSPI.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h" lastModified="169b3af3786">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\System\ModuleID.h" lastModified="136156bf390">
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\Driver\DrvSPI.h" lastModified="169b3af3772">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\System\SysInfra.h"/>
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\LCD_Driver.h" lastModified="136156bf390">
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\Ascii_Table.C" lastModified="136156c5920">
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\LCD_Driver.c" lastModified="160c54dfd5e">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSPI.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\LCD_Driver.h"/>
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\Driver\DrvGPIO.h" lastModified="136156bf390">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\Init.c" lastModified="169b3af3df0">
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSPI.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Src\Driver\DrvGPIO.c" lastModified="169b3af3b8c">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\NUC1xx.h" lastModified="169b3af3790">
+         <include file="..\..\..\cmsis_core\core_cm0.h"/>
+         <include file="..\..\..\cmsis_boot\system_NUC1xx.h"/>
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\System\SysInfra.h"/>
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Src\NUC1xx-LB_002\ScanKey.c" lastModified="136156c64d8">
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\Driver\DrvGPIO.h"/>
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\NUC1xx-LB_002\ScanKey.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_NUC1xx.h" lastModified="169b3af379a">
+      </source>
+      <source file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\System\SysInfra.h" lastModified="136156bf778">
+         <include file="..\..\..\..\..\..\..\KOM\Asis TM\Keperluan Praktikum Teknik Mikroprosesor 2019\Library Nuvoton\Include\System\ModuleID.h"/>
+         <include file="..\..\..\cmsis_core\core_cm0.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\Driver\DrvGPIO.h" lastModified="169b3af379a">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_NUC1xx.c" lastModified="169b3af3b78">
+         <include file="..\..\..\cmsis_boot\NUC1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_NUC1xx.c" lastModified="169b3af3790">
+      </source>
+      <source file="..\..\..\cmsis_core\core_cm0.h" lastModified="169b3af3f56">
+      </source>
+      <source file="..\..\..\cmsis_core\core_cm0.c" lastModified="169b3af3b64">
+      </source>
+      <source file="..\..\..\cmsis_lib\Src\Driver\DrvSYS.c" lastModified="169b3af3b6e">
+         <include file="..\..\..\cmsis_lib\Include\Driver\DrvSYS.h"/>
+      </source>
+   </includePath>
+</dependencies>

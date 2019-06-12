@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=SevenSegment.map -O0 --gc-sections -LD:\CooCox\CoIDE\configuration\ProgramData\SevenSegment -TD:\CooCox\CoIDE\configuration\ProgramData\SevenSegment/arm-gcc-link.ld -g">
+      <target file="SevenSegment.elf" lastModified="169a4a81936">
+         <source file="..\obj\system_NUC1xx.o" lastModified="169a4a80fa7"/>
+         <source file="..\obj\startup_NUC1xx.o" lastModified="169a4a8104f"/>
+         <source file="..\obj\Init.o" lastModified="169a4a8111f"/>
+         <source file="..\obj\main.o" lastModified="169a4a811db"/>
+         <source file="..\obj\Seven_Segment.o" lastModified="169a4a812b1"/>
+         <source file="..\obj\DrvGPIO.o" lastModified="169a4a8141b"/>
+         <source file="..\obj\DrvSYS.o" lastModified="169a4a81577"/>
+         <source file="..\obj\core_cm0.o" lastModified="169a4a81641"/>
+      </target>
+   </processor>
+</history>

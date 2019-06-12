@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=Buzzer LCD Button.map -O0 --gc-sections -LD:\CooCox\CoIDE\configuration\ProgramData\Buzzer LCD Button -TD:\CooCox\CoIDE\configuration\ProgramData\Buzzer LCD Button/arm-gcc-link.ld -g">
+      <target file="Buzzer LCD Button.elf" lastModified="169b2eb5ced">
+         <source file="..\obj\system_NUC1xx.o" lastModified="169b2cf8d58"/>
+         <source file="..\obj\startup_NUC1xx.o" lastModified="169b2cf8d8e"/>
+         <source file="..\obj\Init.o" lastModified="169b2cf8dda"/>
+         <source file="..\obj\DrvSPI.o" lastModified="169b2cf8e83"/>
+         <source file="..\obj\main.o" lastModified="169b2eb5b04"/>
+         <source file="..\obj\DrvGPIO.o" lastModified="169b2cf8f6a"/>
+         <source file="..\obj\DrvSYS.o" lastModified="169b2cf9012"/>
+         <source file="..\obj\Ascii_Table.o" lastModified="169b2cf9053"/>
+         <source file="..\obj\LCD_Driver.o" lastModified="169b2cf9113"/>
+         <source file="..\obj\core_cm0.o" lastModified="169b2cf9153"/>
+      </target>
+   </processor>
+</history>

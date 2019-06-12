@@ -1,0 +1,52 @@
+!SESSION 2019-03-22 14:51:17.602 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_17
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=in_ID
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.RunLast'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.DebugLast'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.StepInto'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.StepOver'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.StepReturn'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.ToggleBreakpoint'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-22 14:51:32.165
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.RunToLine'
+
+!ENTRY org.eclipse.ui 4 4 2019-03-26 01:12:25.311
+!MESSAGE Invalid preference page path: Logging
+!SESSION 2019-03-30 07:08:44.922 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_17
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=in_ID
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.RunLast'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.DebugLast'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.StepInto'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.StepOver'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.StepReturn'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.ToggleBreakpoint'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-30 07:09:05.022
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.cdt.ui', id='org.eclipse.debug.ui.commands.RunToLine'
+
+!ENTRY org.eclipse.ui 4 4 2019-03-30 08:32:47.130
+!MESSAGE Invalid preference page path: Logging
